@@ -1,4 +1,4 @@
-# gurobi_RCPSP_J30
+# gurobi_PSMO_J14
 
 Solving PSMO problems with gurobi, limited to J14 test case dataset ，and you should add additional data types, including resource quantity, resource ordering cost, inventory cost, etc.
 
